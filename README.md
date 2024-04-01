@@ -1,5 +1,6 @@
 # IDT-LFS-initial 使用最大温升率判断点火,验证了bertolino机理（成功）
 In this repository, I' ll provide the code how to calculate IDT and LFS in March, 2024.
+
 import numpy as np
 import matplotlib.pyplot as plt
 import time
